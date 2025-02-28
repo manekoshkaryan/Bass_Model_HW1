@@ -41,4 +41,8 @@ Welcome to the **Bass Diffusion Model Analysis** project! This repository applie
    - `scipy` (curve fitting and optimization)
     - `scipy` (curve fitting and optimization)
 
+Install the dependencies using the provided `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
 
